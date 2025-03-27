@@ -1,7 +1,7 @@
 # USV_planner
 Title: Local Collision Avoidance for Unmanned Surface Vehicles based on an End-to-End Planner with a LiDAR Beam Map
 
-This paper has been submitted to IEEE Transactions on Intelligent Transportation Systems.
+This paper has been accepted by IEEE Transactions on Intelligent Transportation Systems.
 
 Proposed Beam map:
 
