@@ -37,7 +37,7 @@ Comparison algorithms:(a)DDPG (b)TD3 (c)DWA (d)APF
 <img width="500" alt="comparison" src="figure/comparison.png" />
 
 ### 2. Generalization ability verification.
-<img width="500" alt="generalization" src="figure/generalization.png" />
+<img width="700" alt="generalization" src="figure/generalization.png" />
 
 
 ## Acknowledgements
