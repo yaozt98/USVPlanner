@@ -1,0 +1,6 @@
+Cython==3.0.2
+matplotlib==3.7.3
+numpy==1.22.3
+pysocialforce==1.1.2
+setuptools==63.2.0
+torch==1.11.0
