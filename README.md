@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 - Follow the steps from the official [github](https://github.com/rebuttal-anonymous/Python-RVO2)
 
-5. Start to train USV_planner with TD3 policy
+4. Start to train USV_planner with TD3 policy
 
 ```powershell
 python main_TD3.py
