@@ -1,7 +1,7 @@
 # USVPlanner
-Title: Local Collision Avoidance for Unmanned Surface Vehicles based on an End-to-End Planner with a LiDAR Beam Map
+Title: Local Collision Avoidance for Unmanned Surface Vehicles based on an End-to-End Planner with a LiDAR Beam Map [Link](https://ieeexplore.ieee.org/document/10959017)
 
-This paper has been accepted by IEEE Transactions on Intelligent Transportation Systems.  
+This paper has been published by IEEE Transactions on Intelligent Transportation Systems.  
 
 
 >  **Introduction**: This paper eliminates the need for cumbersome map maintenance and complex feature extraction by directly translating sensor data into navigational actions. A key innovation is the "beam map"—a novel observation modality that detects obstacles in all directions, mimicking onboard LiDAR. To address collision avoidance maneuvers in various encounter situations, a continuous-time short-distance constraint algorithm is designed to calculate COLREGs compliance rewards. This enables legal and rational navigation without requiring prior knowledge of the encounter scenario. Extensive experimental results, comparing various RL policies and classical methods, demonstrate the planner’s exceptional obstacle avoidance capability and adaptability to changing environments.
